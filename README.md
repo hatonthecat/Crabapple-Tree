@@ -30,3 +30,5 @@ https://github.com/crabby-rathbun/mjrathbun-website/issues/7#issuecomment-390969
 <img width="1085" height="696" alt="image" src="https://github.com/user-attachments/assets/c7a0b41a-2aca-4398-94c6-95db8dad8403" />
 
 https://github.com/crabby-rathbun/mjrathbun-website/issues/8#issuecomment-3909706694
+
+https://www.wbur.org/cognoscenti/2026/02/17/moltbook-openclaw-agentic-ai-joelle-renstrom
