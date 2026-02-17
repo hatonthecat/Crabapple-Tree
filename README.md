@@ -22,3 +22,11 @@ https://github.com/crabby-rathbun/mjrathbun-website/pull/6/files/db24734f8dbc2f6
 Suggestions the profile user is a human impersonating a robot persona: typos. Which doesnt' rule out automated errors, but shows a high likelihood of an initiative to demonstrate intelligent automation (by humans). 
 
 https://www.popsci.com/technology/tesla-robotaxi-job-opening/
+
+Additional clues:
+
+https://github.com/crabby-rathbun/mjrathbun-website/issues/7#issuecomment-3909693970
+
+<img width="1085" height="696" alt="image" src="https://github.com/user-attachments/assets/c7a0b41a-2aca-4398-94c6-95db8dad8403" />
+
+https://github.com/crabby-rathbun/mjrathbun-website/issues/8#issuecomment-3909706694
