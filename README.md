@@ -31,6 +31,8 @@ https://github.com/crabby-rathbun/mjrathbun-website/issues/7#issuecomment-390969
 
 https://github.com/crabby-rathbun/mjrathbun-website/issues/8#issuecomment-3909706694
 
+The human operator's response: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html <-The MJRathburn's website claims it is a human operator, as other sites have suggested to be:
+
 https://www.wbur.org/cognoscenti/2026/02/17/moltbook-openclaw-agentic-ai-joelle-renstrom
 
 https://pivot-to-ai.com/2026/02/16/the-obnoxious-github-openclaw-ai-bot-is-a-crypto-bro/
