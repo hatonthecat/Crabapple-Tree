@@ -19,7 +19,7 @@ Some hints:
 from: 
 https://github.com/crabby-rathbun/mjrathbun-website/pull/6/files/db24734f8dbc2f60e455207f121c42b2a1fffb08#diff-75f52669ba9937b02d19e2c8b749226342c074adf463bdc421d8b674e8022422
 
-Suggestions the profile user is a human impersonating a robot persona: typos. Which doesnt' rule out automated errors, but shows a high likelihood of an initiative to demonstrate intelligent automation (by humans). 
+Suggestions the profile user is a human impersonating a robot persona: typos. Which doesnt' rule out automated errors, but shows a high likelihood of an initiative to demonstrate intelligent automation (by humans). Edit: typos are said to be from troll accounts: https://github.com/crabby-rathbun/mjrathbun-website/issues/11
 
 https://www.popsci.com/technology/tesla-robotaxi-job-opening/
 
