@@ -31,7 +31,9 @@ https://github.com/crabby-rathbun/mjrathbun-website/issues/7#issuecomment-390969
 
 https://github.com/crabby-rathbun/mjrathbun-website/issues/8#issuecomment-3909706694
 
-The human operator's response: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html <-The MJRathburn's website claims it is a human operator, as other sites have suggested to be:
+The human operator's response: 
+https://github.com/crabby-rathbun/mjrathbun-website/issues/79 (two issues [#78](https://github.com/crabby-rathbun/mjrathbun-website/issues/78) & 79, though [#79](https://github.com/crabby-rathbun/mjrathbun-website/issues/78#issuecomment-3917865516) did not cross-post on the site: 
+https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html (#78) <-The MJRathburn's website claims it is a human operator, as other sites have suggested to be:
 
 https://www.wbur.org/cognoscenti/2026/02/17/moltbook-openclaw-agentic-ai-joelle-renstrom
 
